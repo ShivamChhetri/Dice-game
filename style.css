@@ -1,0 +1,11 @@
+#matrix{
+    display: grid;
+    width: 400px;
+    height:400px;
+    background: blue;
+    text-align: center
+}
+
+.grid-box{
+    border: 1px solid black;
+}
